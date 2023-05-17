@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "560583150177",
+    "project_id": "eschat-app",
+    "storage_bucket": "eschat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560583150177:android:fb9f0d63a5048b59f9b820",
+        "android_client_info": {
+          "package_name": "com.example.chat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560583150177-jtjoodfao7e2btdisltpe2rg640bai12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO_GQNVKy_yIRdTEtu-ISUebML-oYYWI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560583150177-jtjoodfao7e2btdisltpe2rg640bai12.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560583150177-lq8jarlds9ksmchjpt9mr06c24pah8bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chat2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
