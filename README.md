@@ -1,6 +1,6 @@
-# chat2
+# esChat
 
-A new Flutter project.
+A Chat Flutter project
 
 ## Getting Started
 
