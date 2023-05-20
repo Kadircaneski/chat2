@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'firebase_options.dart';
-import 'package:chat2/screens/aurh.dart';
+import 'package:chat2/screens/auth.dart';
 import 'package:chat2/screens/chat.dart';
 import 'package:chat2/screens/splash.dart';
 
@@ -38,6 +38,7 @@ class App extends StatelessWidget {
             }
 
             return const AuthScreen();
+
           },
         ));
   }
